@@ -2,7 +2,7 @@
 
 #### signature: `first(predicate: function, select: function)`
 
-## Emit the first value or first to pass provided expression.
+## Emit the first value or first to pass provided expression before completing.
 
 ---
 
